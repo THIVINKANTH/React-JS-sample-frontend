@@ -1,0 +1,12 @@
+table{
+    border-style: double;
+    border-radius: 10px;
+    border-color: blue;
+}
+td{
+    color: rgb(212, 0, 255);
+}
+td
+{
+   background-color: rgb(8, 63, 242); 
+}
